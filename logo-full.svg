@@ -1,0 +1,41 @@
+<svg width="820" height="180" viewBox="0 0 820 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="idrFullTitle idrFullDesc">
+  <title id="idrFullTitle">Institute of Digital Risk full logo</title>
+  <desc id="idrFullDesc">A cube-inspired IDR symbol with the full institute name in a modern professional wordmark.</desc>
+
+  <!-- Icon container -->
+  <rect x="8" y="8" width="164" height="164" rx="30" fill="#111111"></rect>
+
+  <!-- Outer cube -->
+  <path d="M90 36L132 60V108L90 132L48 108V60L90 36Z" stroke="#FFFFFF" stroke-width="7" stroke-linejoin="round"></path>
+
+  <!-- Top face accent -->
+  <path d="M90 36L132 60L90 84L48 60L90 36Z" fill="#FF6B00"></path>
+
+  <!-- Vertical structure lines -->
+  <path d="M90 84V132" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"></path>
+  <path d="M48 60V108" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"></path>
+  <path d="M132 60V108" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"></path>
+
+  <!-- Inner shield -->
+  <path d="M90 63L112 75V95C112 107 104 117 90 122C76 117 68 107 68 95V75L90 63Z" fill="#111111" stroke="#FFFFFF" stroke-width="5.5" stroke-linejoin="round"></path>
+  <path d="M90 75V90" stroke="#FF6B00" stroke-width="5.5" stroke-linecap="round"></path>
+  <circle cx="90" cy="100" r="3.8" fill="#FF6B00"></circle>
+
+  <!-- Wordmark -->
+  <text x="205" y="70" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="0.4px">
+    Institute of
+  </text>
+  <text x="205" y="108" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="0.2px">
+    Digital Risk
+  </text>
+
+  <!-- IDR lockup -->
+  <rect x="206" y="124" width="68" height="24" rx="12" fill="#FFF1E8"></rect>
+  <text x="227" y="141" fill="#FF6B00" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="1.4px">
+    IDR
+  </text>
+
+  <text x="290" y="141" fill="#4B5563" font-family="Manrope, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.2px">
+    Industry-led training and deployment institute
+  </text>
+</svg>

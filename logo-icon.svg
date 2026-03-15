@@ -1,0 +1,24 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="idrIconTitle idrIconDesc">
+  <title id="idrIconTitle">Institute of Digital Risk icon</title>
+  <desc id="idrIconDesc">A cube-inspired geometric symbol representing structure, resilience, and digital risk.</desc>
+
+  <rect width="256" height="256" rx="44" fill="#111111"></rect>
+
+  <!-- Outer cube -->
+  <path d="M128 44L192 80V152L128 188L64 152V80L128 44Z" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round"></path>
+
+  <!-- Top face accent -->
+  <path d="M128 44L192 80L128 116L64 80L128 44Z" fill="#FF6B00" fill-opacity="0.95"></path>
+
+  <!-- Vertical structure lines -->
+  <path d="M128 116V188" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+  <path d="M64 80V152" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+  <path d="M192 80V152" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+
+  <!-- Inner shield / resilience core -->
+  <path d="M128 84L162 103V133C162 151 149 166 128 173C107 166 94 151 94 133V103L128 84Z" fill="#111111" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round"></path>
+
+  <!-- Risk signal -->
+  <path d="M128 102V126" stroke="#FF6B00" stroke-width="8" stroke-linecap="round"></path>
+  <circle cx="128" cy="142" r="5.5" fill="#FF6B00"></circle>
+</svg>
